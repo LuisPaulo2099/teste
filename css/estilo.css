@@ -1,0 +1,13 @@
+body{
+    background: #c6c6c6;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    box-sizing: border-box;
+}
+
+h1,h2{
+    font-size: 20px;
+}
+
+.horse{
+    background-image: url(../img/horse.jpg);
+}
